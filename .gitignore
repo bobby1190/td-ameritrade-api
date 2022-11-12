@@ -1,0 +1,4 @@
+# Ignore files created by rubymine
+.idea/
+.idea
+.idea/workspace.xml
